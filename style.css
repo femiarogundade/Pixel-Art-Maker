@@ -1,0 +1,25 @@
+header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.grid-input-div {
+    display: flex;
+}
+
+[type="color"] {
+    margin-top: 20px;
+}
+
+main {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#canvas {
+    display: grid;
+}
